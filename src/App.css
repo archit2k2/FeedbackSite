@@ -1,0 +1,9 @@
+div.bground{
+  background-image: linear-gradient(rgb(232, 223, 228), rgb(42, 142, 170));
+  min-height: 100vh;
+}
+
+.card-body
+{
+  box-shadow: 1px 1px 10px;
+}
